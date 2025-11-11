@@ -1,0 +1,26 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circular border -->
+  <circle cx="256" cy="256" r="240" stroke="rgba(255,255,255,0.2)" stroke-width="2" fill="none"/>
+
+  <!-- KANTES text placeholder -->
+  <text x="256" y="420" font-family="Arial, sans-serif" font-size="48" font-weight="300" fill="white" text-anchor="middle" letter-spacing="4">KANTES</text>
+
+  <!-- Simplified architectural pillars -->
+  <g transform="translate(256, 180)">
+    <!-- Pillar 1 -->
+    <path d="M -80 0 L -60 -80 L -40 0 Z" fill="rgba(255,255,255,0.7)"/>
+    <!-- Pillar 2 -->
+    <path d="M -40 0 L -25 -100 L -10 0 Z" fill="rgba(255,255,255,0.8)"/>
+    <!-- Pillar 3 (center, tallest) -->
+    <path d="M -10 0 L 0 -120 L 10 0 Z" fill="rgba(255,255,255,0.9)"/>
+    <!-- Pillar 4 -->
+    <path d="M 10 0 L 25 -100 L 40 0 Z" fill="rgba(255,255,255,0.8)"/>
+    <!-- Pillar 5 -->
+    <path d="M 40 0 L 60 -80 L 80 0 Z" fill="rgba(255,255,255,0.7)"/>
+
+    <!-- Base/stairs -->
+    <rect x="-100" y="0" width="200" height="4" fill="rgba(255,255,255,0.6)"/>
+    <rect x="-90" y="4" width="180" height="4" fill="rgba(255,255,255,0.5)"/>
+    <rect x="-80" y="8" width="160" height="4" fill="rgba(255,255,255,0.4)"/>
+  </g>
+</svg>
