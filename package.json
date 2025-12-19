@@ -17,6 +17,7 @@
     "@react-three/drei": "^10.7.6",
     "@react-three/fiber": "^9.4.0",
     "@splinetool/react-spline": "^4.1.0",
+    "@supabase/supabase-js": "^2.89.0",
     "@types/node": "^24.7.2",
     "@types/react": "^19.2.2",
     "autoprefixer": "^10.4.21",
