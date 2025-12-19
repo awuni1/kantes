@@ -112,6 +112,25 @@ export default function Hero() {
             </svg>
             Watch Demo
           </button>
+          <Link
+            href="/revit-plugin"
+            className="group px-10 py-5 border-2 border-neon-blue text-neon-blue font-bold rounded-xl transition-all duration-300 hover:bg-neon-blue/10 hover:scale-105 inline-flex items-center gap-2"
+          >
+            Revit Plugin
+            <svg
+              className="w-5 h-5 group-hover:translate-x-1 transition-transform"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M13 7l5 5m0 0l-5 5m5-5H6"
+              />
+            </svg>
+          </Link>
         </div>
 
         {/* Social Proof Stats */}
